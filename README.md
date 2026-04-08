@@ -11,3 +11,4 @@ Efficient removal (O(1)) from the head
 Search functionality by patient name
 
 Interactive CLI menu for testing
+link para o youtube com os vídeos: https://www.youtube.com/watch?v=MSQKaiW0mL8
